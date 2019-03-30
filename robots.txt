@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://new.stevenmweisberg.com/sitemap.xml
